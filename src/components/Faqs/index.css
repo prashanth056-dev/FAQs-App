@@ -1,0 +1,21 @@
+/* Write your code here. */
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 50px;
+  background-color: aliceblue;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  width: 80%;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}

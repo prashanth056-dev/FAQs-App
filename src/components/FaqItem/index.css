@@ -1,0 +1,18 @@
+/* Write your code here. */
+.cards {
+  list-style: none;
+  width: 80%;
+  border-radius: 20px;
+  border: solid 1px #000;
+  margin: 10px;
+  padding: 10px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  border: none;
+  background-color: #0000;
+}
